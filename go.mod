@@ -1,4 +1,4 @@
-module github.com/thriqon/postfix-queue-expirtr
+module github.com/thriqon/postfix-queue-exporter
 
 go 1.25.4
 
